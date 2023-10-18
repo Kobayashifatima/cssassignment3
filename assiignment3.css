@@ -1,0 +1,82 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+.container{
+
+    width: 100%;
+    float: left;
+}
+
+.header{
+    
+
+    width: 100%;
+
+    
+    
+    float: left;
+}
+ul {
+    list-style-type: none;
+    margin: 0 auto;
+    padding: 0;
+    overflow: hidden;
+      width: fit-content;
+      
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    padding: 20px;
+    background-color: #60c0d1;
+  }
+  .bodyL{
+    background-image:url('https://i.pinimg.com/564x/7e/5b/50/7e5b500c2a6847e23911623f9d4f1b1b.jpg');
+
+    width: 20%;
+	float: left;
+  }
+  .bodyM{
+    background-image: url('https://wallpapercave.com/wp/wp6358167.jpg');
+
+    width: 58%;
+    float: left;
+  }
+  .bodyR{
+    background-image: url('https://i.pinimg.com/564x/77/55/6d/77556d518fa465b283fba129465ee3a8.jpg');
+
+    width: 22%;
+    float: left;
+  }
+
+  h3{
+    color: yellow;
+  }
+  .btn-text-center{
+    text-align: center;	
+  }
+ .text-on-right{
+
+  text-align: right;
+  
+ }
+.pcolor{
+
+  display: block;
+    padding: 20px;
+    background-color: #60c0d1;
+}
+.centered {
+  position: absolute;
+  top: 40%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+ 
+
+ 
